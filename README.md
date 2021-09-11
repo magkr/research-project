@@ -1,4 +1,4 @@
-# ResearchProject
+# Research Project
 
 To run the minimax algorithm on the advanced supply chain example (we list all the available examples in 'examples' below):
 ```
